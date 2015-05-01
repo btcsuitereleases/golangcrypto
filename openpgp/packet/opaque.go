@@ -6,7 +6,7 @@ package packet
 
 import (
 	"bytes"
-	"github.com/btcsuite/golangcrypto/openpgp/errors"
+	"github.com/btcsuitereleases/golangcrypto/openpgp/errors"
 	"io"
 	"io/ioutil"
 )

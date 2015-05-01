@@ -10,7 +10,7 @@ import (
 	"net"
 	"sync"
 
-	"github.com/btcsuite/golangcrypto/ssh"
+	"github.com/btcsuitereleases/golangcrypto/ssh"
 )
 
 // RequestAgentForwarding sets up agent forwarding for the session.
